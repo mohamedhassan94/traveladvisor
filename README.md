@@ -12,6 +12,8 @@ API: https://rapidapi.com/apidojo/api/travel-advisor/
 
 **React.js**
 
+**Material UI**
+
 **Axios** for making HTTP requests.
 
 **google map react** for displaying Google Maps.
